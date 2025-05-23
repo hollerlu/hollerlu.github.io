@@ -1,1 +1,1 @@
-# [hollerlu.github.io](https://hollerlu.github.io/grinnell-IGE-map/)
+# [IGE Map](https://hollerlu.github.io/grinnell-IGE-map/)
